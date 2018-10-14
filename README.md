@@ -27,3 +27,18 @@
 * Dualidad entre MA y AR.
 * Proceso AR: simulación con diferentes valores de los coeficientes.
 * Ecuaciones de Yule Walker para obtener ACF de AR.
+
+## 4. AR(p) processes, Yule-Walker equations, PACF
+
+* PACF: intuición, obtención y significado. Utilidad para identificar procesos AR.
+* Ecuaciones Yule-Walker en forma matricial.
+* Estimación de los coeficientes de procesos AR(2) y AR(3) y de la varianza del ruido mediante Yule-Walker. Ejemplos.
+
+## 5. Akaike Information Criterion (AIC), Mixed Models, Integrated Models
+
+* Medida de la calidad de un modelo: AIC y SSE. Elección entre diferentes modelos.
+* Modelos ARMA. Simulación, propiedades y estimación del mejor modelo.
+* Modelos ARIMA. Descripción y aplicación. Orden de la diferenciación.
+* Ljung-Box Q-statistic para medir la autocorrelación de una serie.
+* Ejemplo de ARIMA fitting.
+
