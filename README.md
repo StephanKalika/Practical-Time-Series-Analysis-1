@@ -42,3 +42,7 @@
 * Ljung-Box Q-statistic para medir la autocorrelación de una serie.
 * Ejemplo de ARIMA fitting.
 
+## 6. Seasonality, SARIMA, Forecasting
+
+* Modelos SARIMA. Definición, aplicaciones. ACF de un proceso SARIMA. Ejemplos prácticos.
+* Introducción al forecasting: motivación, modelo naive, Simple Exponential Smoothing y Holt-Winters para tendencia y estacionalidad.
